@@ -1,0 +1,25 @@
+header{
+    background-color: var(--color-primary);
+}
+
+.navBar-Content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FFF;
+    height: 60px;
+}
+.navBar-Content h1{
+    font-weight: 700;
+    font-size: 24px;
+    margin: 0 !important;
+}
+.navBar-linkContact{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navBar-linkContact p{ 
+    margin: 0 0 0 10px;
+    font-size: 12px;
+}
