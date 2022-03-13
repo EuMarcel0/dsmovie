@@ -49,6 +49,7 @@ function FormCard( { movieId } : Props){
             navigate('/');
         });
 
+
     }
 
 
