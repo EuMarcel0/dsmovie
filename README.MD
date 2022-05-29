@@ -5,7 +5,7 @@
 
 Esta aplicação foi desenvolvida em bootcamp da [DevSuperior](https://devsuperior.com.br/cursos), sob às orientações do excelente professor Nélio Alves. 
 Nela avaliamos filmes que chegam através de uma API externa e guardamos todas as notas e emails no banco de dados. 
-Tendo essas notas em mãos, no back-end foi criado um código para recuperar a média de cada filmes e mostrá-la na página inicial.
+Tendo essas notas em mãos, no back-end foi criado um código para recuperar a média de cada filme e mostrá-la nos itens da página inicial.
 
 ## 🚀 Começando
 
